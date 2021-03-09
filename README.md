@@ -1,4 +1,4 @@
-# Verified faucet
+# Verified SMS Faucet
 
 A faucet to issue tokens to SMS or email verified accounts.
 
